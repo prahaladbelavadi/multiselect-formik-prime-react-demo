@@ -6,6 +6,16 @@
  
 
  .App {
-  text-align: center; 
+  /* text-align: center;  */
+  /* justify-content: space-around; */
+  padding: 4rem;
   margin-top: 10rem;
+}
+
+.left{
+  float: left;
+}
+
+.right{
+  float: right;
 }
